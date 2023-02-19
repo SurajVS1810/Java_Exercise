@@ -1,3 +1,4 @@
+//WAP to calculate area of a circle (functions with no argument and no return type.)
 import java.io.*;
 import java.lang.*;
 class Area

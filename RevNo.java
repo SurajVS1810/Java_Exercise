@@ -1,3 +1,4 @@
+//WAP to reverse a number (functions with argument and no return type.)
 import java.io.*;
 import java.lang.*;
 class Reverse

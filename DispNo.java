@@ -1,3 +1,4 @@
+//WAP to display numbers from m to n using single while loop.
 import java .io.*;
 import java.lang.*;
 class DispnNo

@@ -1,3 +1,4 @@
+//WAP with two functions to check for an integer palindrome. (Function1 should reverse the integer. Function2 should return 1,if it is a palindrome or else 0.)
 import java.io.*;
 import java.lang.*;
 class Reverse
